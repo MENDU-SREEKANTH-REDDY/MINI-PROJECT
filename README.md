@@ -1,2 +1,2 @@
-# MINI-PROJECT
-Made this mini projext of spotify clone using html and css.
+# SPOTIFY-CLONE
+This mini-project was built using HTML and CSS, with a focus on Flexbox and Grid for layout and responsive design.
